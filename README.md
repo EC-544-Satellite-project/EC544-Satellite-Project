@@ -1,5 +1,5 @@
 # EC544-Satellite-Project
 
-### For windows, please refer to "How I make it working on Visual Studio 2019.pdf"
+##### For windows, please refer to "How I get it working on Visual Studio 2019.pdf"
 
-### For linux, please refer to "Implementation in Linux.txt"
+##### For ubuntu, please refer to "Implementation on ubuntu.txt"
