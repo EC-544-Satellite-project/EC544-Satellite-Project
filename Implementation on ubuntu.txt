@@ -1,0 +1,20 @@
+After create a new ubuntu container 
+
+1. apt-get update
+
+2. apt-get install vim
+
+3. apt-get install essential-build
+
+4. apt-get install g++
+
+5. apt-get install libcrypto++-dev libcrypto++-doc libcrypto++-utils
+
+5. vi [filename].cpp
+
+6. copy and paste the content of "cryptolinux.cpp" into that file
+
+7. g++ [filename].cpp -lcryptopp
+
+8. ./a.out and the result should be the same with the screenshot provided in "How I get it working on Visual Studio 2019.pdf"
+
