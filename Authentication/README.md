@@ -1,1 +1,1 @@
-
+Note: the main code is crypto_example.cpp; however, this code is mainly based on research, so don't rely on it to give a good flow of authentication process. Since, we implemented this authentication process using command line tools, go to the directory "authentication_command_line" with all the information on how the authentication is implemented.
